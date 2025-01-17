@@ -13,6 +13,9 @@ A simple, out-of-scale 3D simulation of the solar system.
 
 **Cross**: Toggles the display of planetary orbits.
 
+**R1**: On/Off Sunlight.
+
+
 
 ## Credits:
 
