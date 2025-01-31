@@ -15,12 +15,18 @@ A simple, out-of-scale 3D simulation of the solar system.
 
 **R1**: On/Off Sunlight.
 
-**L1**: Switches between a simple sky view (with 1000 stars) and a detailed sky view (with 4000 stars), highlighting constellations in red and the Milky Way belt in shades of yellow and orange.
+**L1**: Displays constellations and the Milky Way belt in shades of blue.
+
+
+## Stars:
+
+The sky features 7,000 real stars visible to the naked eye, mapped from the Hipparcos catalog. Their sizes and colors vary according to their magnitude.
 
 
 ## Available Constellations:
 
-Aries, Gemini, Leo, Scorpius, Pegasus, Ursa Major, Ursa Minor, Perseus, Carina, Orion, Crux.
+Currently, the available constellations are Aries, Gemini, Leo, Scorpius, and Pegasus.
+
 
 
 ## Credits:
