@@ -25,7 +25,7 @@ The sky features 7,000 real stars visible to the naked eye, mapped from the Hipp
 
 ## Available Constellations:
 
-Currently, the available constellations are Aries, Gemini, Leo, Scorpius, and Pegasus.
+Currently, the available constellations are Aries, Gemini, Leo, Scorpius, Pegasus and Andromeda.
 
 
 
