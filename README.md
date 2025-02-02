@@ -29,7 +29,7 @@ Currently, the available constellations are: Aries, Gemini, Leo, Scorpius, Pegas
 
 <div align="center">
 
-<img width="800" src="./constellations.jpg">
+<img width="800" src="./constellations-hd.jpg">
 <br>
 
 </div>
