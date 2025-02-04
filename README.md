@@ -11,11 +11,11 @@ A simple, out-of-scale 3D simulation of the solar system.
 
 **Touchpad**: Pauses and resumes the simulation.
 
-**Cross**: Toggles the display of planetary orbits.
+**Cross**: Enables/disables the display of planetary orbits.
 
-**R1**: On/Off Sunlight.
+**R1**: Enables/disables sunlight.
 
-**L1**: Displays constellations and the Milky Way belt in shades of blue.
+**L1**: Enables/disables the display of constellations and the Milky Way belt in shades of blue.
 
 
 ## Stars:
@@ -25,7 +25,7 @@ The sky features 7,000 real stars visible to the naked eye, mapped from the Hipp
 
 ## Available Constellations:
 
-Currently, the available constellations are: Aries, Gemini, Leo, Scorpius, Pegasus, Andromeda, Orion, Crux, Phoenix and Auriga.
+Currently, the available constellations are: Aries, Gemini, Leo, Scorpius, Pegasus, Andromeda, Orion, Crux, Phoenix, Auriga, Cygnus, Dragon, Taurus, Cancer, Virgo and Libra.
 
 <div align="center">
 
