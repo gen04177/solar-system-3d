@@ -20,7 +20,7 @@ A simple, out-of-scale 3D simulation of the solar system.
 
 ## Stars:
 
-The sky features 7,000 real [stars](stars.txt) visible to the naked eye, mapped from the [SIMBAD Astronomical Database](https://simbad.cds.unistra.fr/simbad/). Their sizes and colors vary according to their magnitude. I used the [Stellarium](https://github.com/Stellarium/stellarium) software to identify the stars that make up each constellation, and the constellation designs are identical to those found in Stellarium.
+The sky features 7,000 [real stars](stars.txt) visible to the naked eye, mapped from the [SIMBAD Astronomical Database](https://simbad.cds.unistra.fr/simbad/). Their sizes and colors vary according to their magnitude. I used the [Stellarium](https://github.com/Stellarium/stellarium) software to identify the stars that make up each constellation, and the constellation designs are identical to those found in Stellarium.
 
 ## Available Constellations:
 
