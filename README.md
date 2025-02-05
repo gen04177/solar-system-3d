@@ -20,7 +20,7 @@ A simple, out-of-scale 3D simulation of the solar system.
 
 ## Stars:
 
-The sky features 7,000 real stars visible to the naked eye, mapped from the Hipparcos catalog. Their sizes and colors vary according to their magnitude.
+The sky features 7,000 real stars visible to the naked eye, mapped from the  [SIMBAD Astronomical Database](https://simbad.cds.unistra.fr/simbad/). Their sizes and colors vary according to their magnitude.
 
 
 ## Available Constellations:
