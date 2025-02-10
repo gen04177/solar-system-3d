@@ -24,7 +24,7 @@ The sky features 7,000 [real stars](stars.txt) visible to the naked eye, mapped 
 
 ## Available Constellations:
 
-Currently, the available constellations are: Aries, Gemini, Leo, Scorpius, Pegasus, Andromeda, Orion, Crux, Phoenix, Auriga, Cygnus, Dragon, Taurus, Cancer, Virgo and Libra.
+Currently, the available constellations are: Aries, Gemini, Leo, Scorpius, Pegasus, Andromeda, Orion, Crux, Phoenix, Auriga, Cygnus, Dragon, Taurus, Cancer, Virgo, Libra, Sagittarius, Capricornus, Pisces, Aquarius, Canis Major, Canis Minor, Cassiopeia, Ursa Major, Ursa Minor, Lupus, Chamaeleon, Aquila, Hercules and Perseus.
 
 <div align="center">
 
