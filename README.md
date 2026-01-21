@@ -33,8 +33,3 @@ Currently, the available constellations are: Aries, Gemini, Leo, Scorpius, Pegas
 
 </div>
 
-
-
-## Credits:
-
-- ps5-payload-sdk
