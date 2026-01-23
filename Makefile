@@ -1,7 +1,7 @@
 CC := gcc
 
 CFLAGS := -O3 \
-          -I./OSMesa \
+          -I./OSMesa
 
 LDFLAGS := $(shell sdl2-config --libs) \
 	    -lSDL2 \
@@ -9,7 +9,7 @@ LDFLAGS := $(shell sdl2-config --libs) \
 	    lib/libosmesa.a
 
 SRCS := main.c
-TARGET := sss3d-linux
+TARGET := sss3d-v0.001
 
 all: $(TARGET)
 
