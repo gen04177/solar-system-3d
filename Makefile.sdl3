@@ -1,0 +1,19 @@
+CC := gcc
+
+CFLAGS := -O3 -I./OSMesa `pkg-config --cflags sdl3`
+
+LDFLAGS  := `pkg-config --libs sdl3` \
+        -lm \
+        lib/libosmesa.a
+
+SRCS := main-sdl3.c
+
+TARGET := sss3d-v0.001-sdl3
+
+all: $(TARGET)
+
+$(TARGET): $(SRCS)
+	$(CC) $(CFLAGS) -o $@ $^ $(LDFLAGS)
+
+clean:
+	rm -f $(TARGET)
