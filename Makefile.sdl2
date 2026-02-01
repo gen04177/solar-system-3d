@@ -8,7 +8,7 @@ LDFLAGS := $(shell sdl2-config --libs) \
 	    -lm \
 	    lib/libosmesa.a
 
-SRCS := main.c
+SRCS := main-sdl2.c
 TARGET := sss3d-v0.001
 
 all: $(TARGET)
