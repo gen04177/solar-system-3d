@@ -410,7 +410,7 @@ main (int argc, char *argv[])
     }
 
   SDL_Texture *texture = SDL_CreateTexture (renderer,
-					    SDL_PIXELFORMAT_RGBA32,
+					    SDL_PIXELFORMAT_ARGB8888,
 					    SDL_TEXTUREACCESS_STREAMING,
 					    width, height);
   if (!texture)
